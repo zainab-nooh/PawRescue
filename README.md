@@ -10,23 +10,23 @@
 </div>
 
 
-## Why PawRescue?
+# **Why PawRescue?**
 Streamlines the complex pet adoption process by providing a centralized platform where all parties can efficiently connect and communicate.
 
-##  Demo
+#  **Demo**
 
  Visit the [live demo](https://pawrescue-w77l.onrender.com) to see PawRescue in action
 
 
 
-## ✨ Key Features
+#  **Key Features**
 
 - **User Profiles** - Complete profiles for adopters and rescuers 
 - **Pet Listings** - Detailed pet profiles with photos and care information
 - **Responsive Design** - Optimized for all devices
 
 
-## 📊 Technical Achievements
+#  **Technical Achievements**
 
 | Metric | Result |
 |--------|--------|
@@ -36,18 +36,30 @@ Streamlines the complex pet adoption process by providing a centralized platform
 
 
 
-## 🚀 Future Enhancements
+#  **Future Enhancements**
 
 - Mobile app development for iOS/Android
 - AI-powered pet-adopter matching system
 
 ---
 
+# **Credits**
+ ### **Developers:** 
+ * **Zainab Nooh** 
+ * **Zahraa Alajalabi** 
+ * **Ruhaina Alasfoor**
+ * **Shooq Dadsha**
+ * **Shaikha Albuainain**<br><br> 
+
+
+
+
+
 
 **Built with modern web technologies to create meaningful connections between pets and families.**
 
 
-##  Connect With Me
+#  **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-nooh)
 
