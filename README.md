@@ -1,13 +1,21 @@
-# **PawRescue Website**
-
-# **Description**
-PawRescue, a user-friendly website that bridges the gap between individuals offering pets for adoption, foster caregivers, small rescuers, or pet owners and the people seeking to adopt animals. The website will simplify the adoption process by enabling seamless profile creation, pet listings, and direct communication between parties. 
-
-[PawRescue](https://pawrescue-w77l.onrender.com)
+# **PawRescue**
 
 
-### Problem Solved
+**PawRescue**, a user-friendly website that bridges the gap between individuals offering pets for adoption, foster caregivers, small rescuers, or pet owners and the people seeking to adopt animals. The website will simplify the adoption process by enabling seamless profile creation, pet listings, and direct communication between parties. 
+
+<div align="center" style="margin: 40px 0;">
+
+  <img src="./public//images/readme-pic.jpeg" width = '400px'>
+
+</div>
+
+
+## Why PawRescue?
 Streamlines the complex pet adoption process by providing a centralized platform where all parties can efficiently connect and communicate.
+
+##  Demo
+
+ Visit the [live demo](https://pawrescue-w77l.onrender.com) to see PawRescue in action
 
 
 
@@ -38,4 +46,9 @@ Streamlines the complex pet adoption process by providing a centralized platform
 
 **Built with modern web technologies to create meaningful connections between pets and families.**
 
-[LinkedIn](https://www.linkedin.com/in/zainab-nooh)
+
+##  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-nooh)
+
+
